@@ -18,4 +18,9 @@ The application also takes some approaches of using parallel computing to improv
 
 ## Installation guide
 
+1. Clone the repo in your local machine
+
+```bash
+git clone https://github.com/jtsdaniel/Pipeline-image-edit-software.git
+```
 ## User guide
