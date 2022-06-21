@@ -26,7 +26,7 @@ The application also takes some approaches of using parallel computing to improv
 ```bash
 git clone https://github.com/jtsdaniel/Pipeline-image-edit-software.git
 ```
-2. Install appropriate .Net Core SDK version 6.0 to your local machine - [Download Here](https://dotnet.microsoft.com/en-us/download/dotnet/sdk-for-vs-code?utm_source=vs-code&amp;utm_medium=referral&amp;utm_campaign=sdk-install)
+2. Install appropriate .Net Core SDK v6.0 to your local machine - [Download Here](https://dotnet.microsoft.com/en-us/download/dotnet/sdk-for-vs-code?utm_source=vs-code&amp;utm_medium=referral&amp;utm_campaign=sdk-install), make sure to download the right bit Window version with your machine.
 ## User guide
 
 1. To run the application, simply follow this path: *"...\Pipeline-image-edit-software\FilterPipeApp\src"* then enter *"dotnet run"* command
