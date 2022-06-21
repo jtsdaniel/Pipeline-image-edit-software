@@ -1,0 +1,46 @@
+D:\QUT student\BACH 1\SEM2\CAB401\FilterPipeApp\FilterPipeApp\bin\Debug\netcoreapp3.1\FilterPipeApp.exe
+D:\QUT student\BACH 1\SEM2\CAB401\FilterPipeApp\FilterPipeApp\bin\Debug\netcoreapp3.1\FilterPipeApp.deps.json
+D:\QUT student\BACH 1\SEM2\CAB401\FilterPipeApp\FilterPipeApp\bin\Debug\netcoreapp3.1\FilterPipeApp.runtimeconfig.json
+D:\QUT student\BACH 1\SEM2\CAB401\FilterPipeApp\FilterPipeApp\bin\Debug\netcoreapp3.1\FilterPipeApp.runtimeconfig.dev.json
+D:\QUT student\BACH 1\SEM2\CAB401\FilterPipeApp\FilterPipeApp\bin\Debug\netcoreapp3.1\FilterPipeApp.dll
+D:\QUT student\BACH 1\SEM2\CAB401\FilterPipeApp\FilterPipeApp\bin\Debug\netcoreapp3.1\FilterPipeApp.pdb
+D:\QUT student\BACH 1\SEM2\CAB401\FilterPipeApp\FilterPipeApp\obj\Debug\netcoreapp3.1\FilterPipeApp.AssemblyInfoInputs.cache
+D:\QUT student\BACH 1\SEM2\CAB401\FilterPipeApp\FilterPipeApp\obj\Debug\netcoreapp3.1\FilterPipeApp.AssemblyInfo.cs
+D:\QUT student\BACH 1\SEM2\CAB401\FilterPipeApp\FilterPipeApp\obj\Debug\netcoreapp3.1\FilterPipeApp.csproj.CoreCompileInputs.cache
+D:\QUT student\BACH 1\SEM2\CAB401\FilterPipeApp\FilterPipeApp\obj\Debug\netcoreapp3.1\FilterPipeApp.dll
+D:\QUT student\BACH 1\SEM2\CAB401\FilterPipeApp\FilterPipeApp\obj\Debug\netcoreapp3.1\FilterPipeApp.pdb
+D:\QUT student\BACH 1\SEM2\CAB401\FilterPipeApp\FilterPipeApp\obj\Debug\netcoreapp3.1\FilterPipeApp.genruntimeconfig.cache
+D:\QUT student\BACH 1\SEM2\CAB401\FilterPipeApp\FilterPipeApp\bin\Debug\netcoreapp3.1\SixLabors.ImageSharp.dll
+D:\QUT student\BACH 1\SEM2\CAB401\FilterPipeApp\FilterPipeApp\obj\Debug\netcoreapp3.1\FilterPipeApp.csproj.CopyComplete
+D:\QUT student\BACH 1\SEM2\CAB401\FilterPipeApp\FilterPipeApp\obj\Debug\netcoreapp3.1\FilterPipeApp.csproj.AssemblyReference.cache
+D:\QUT student\BACH 1\SEM2\CAB401\BIG PROJECT\FilterPipeApp Original\FilterPipeApp\bin\Debug\netcoreapp3.1\FilterPipeApp.exe
+D:\QUT student\BACH 1\SEM2\CAB401\BIG PROJECT\FilterPipeApp Original\FilterPipeApp\bin\Debug\netcoreapp3.1\FilterPipeApp.deps.json
+D:\QUT student\BACH 1\SEM2\CAB401\BIG PROJECT\FilterPipeApp Original\FilterPipeApp\bin\Debug\netcoreapp3.1\FilterPipeApp.runtimeconfig.json
+D:\QUT student\BACH 1\SEM2\CAB401\BIG PROJECT\FilterPipeApp Original\FilterPipeApp\bin\Debug\netcoreapp3.1\FilterPipeApp.runtimeconfig.dev.json
+D:\QUT student\BACH 1\SEM2\CAB401\BIG PROJECT\FilterPipeApp Original\FilterPipeApp\bin\Debug\netcoreapp3.1\FilterPipeApp.dll
+D:\QUT student\BACH 1\SEM2\CAB401\BIG PROJECT\FilterPipeApp Original\FilterPipeApp\bin\Debug\netcoreapp3.1\FilterPipeApp.pdb
+D:\QUT student\BACH 1\SEM2\CAB401\BIG PROJECT\FilterPipeApp Original\FilterPipeApp\bin\Debug\netcoreapp3.1\SixLabors.ImageSharp.dll
+D:\QUT student\BACH 1\SEM2\CAB401\BIG PROJECT\FilterPipeApp Original\FilterPipeApp\obj\Debug\netcoreapp3.1\FilterPipeApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\QUT student\BACH 1\SEM2\CAB401\BIG PROJECT\FilterPipeApp Original\FilterPipeApp\obj\Debug\netcoreapp3.1\FilterPipeApp.AssemblyInfoInputs.cache
+D:\QUT student\BACH 1\SEM2\CAB401\BIG PROJECT\FilterPipeApp Original\FilterPipeApp\obj\Debug\netcoreapp3.1\FilterPipeApp.AssemblyInfo.cs
+D:\QUT student\BACH 1\SEM2\CAB401\BIG PROJECT\FilterPipeApp Original\FilterPipeApp\obj\Debug\netcoreapp3.1\FilterPipeApp.csproj.CoreCompileInputs.cache
+D:\QUT student\BACH 1\SEM2\CAB401\BIG PROJECT\FilterPipeApp Original\FilterPipeApp\obj\Debug\netcoreapp3.1\FilterPipeApp.csproj.CopyComplete
+D:\QUT student\BACH 1\SEM2\CAB401\BIG PROJECT\FilterPipeApp Original\FilterPipeApp\obj\Debug\netcoreapp3.1\FilterPipeApp.dll
+D:\QUT student\BACH 1\SEM2\CAB401\BIG PROJECT\FilterPipeApp Original\FilterPipeApp\obj\Debug\netcoreapp3.1\FilterPipeApp.pdb
+D:\QUT student\BACH 1\SEM2\CAB401\BIG PROJECT\FilterPipeApp Original\FilterPipeApp\obj\Debug\netcoreapp3.1\FilterPipeApp.genruntimeconfig.cache
+D:\QUT student\BACH 1\SEM2\CAB401\BIG PROJECT\FilterPipeApp Parallel Version\FilterPipeApp\bin\Debug\netcoreapp3.1\FilterPipeApp.exe
+D:\QUT student\BACH 1\SEM2\CAB401\BIG PROJECT\FilterPipeApp Parallel Version\FilterPipeApp\bin\Debug\netcoreapp3.1\FilterPipeApp.deps.json
+D:\QUT student\BACH 1\SEM2\CAB401\BIG PROJECT\FilterPipeApp Parallel Version\FilterPipeApp\bin\Debug\netcoreapp3.1\FilterPipeApp.runtimeconfig.json
+D:\QUT student\BACH 1\SEM2\CAB401\BIG PROJECT\FilterPipeApp Parallel Version\FilterPipeApp\bin\Debug\netcoreapp3.1\FilterPipeApp.runtimeconfig.dev.json
+D:\QUT student\BACH 1\SEM2\CAB401\BIG PROJECT\FilterPipeApp Parallel Version\FilterPipeApp\bin\Debug\netcoreapp3.1\FilterPipeApp.dll
+D:\QUT student\BACH 1\SEM2\CAB401\BIG PROJECT\FilterPipeApp Parallel Version\FilterPipeApp\bin\Debug\netcoreapp3.1\FilterPipeApp.pdb
+D:\QUT student\BACH 1\SEM2\CAB401\BIG PROJECT\FilterPipeApp Parallel Version\FilterPipeApp\bin\Debug\netcoreapp3.1\SixLabors.ImageSharp.dll
+D:\QUT student\BACH 1\SEM2\CAB401\BIG PROJECT\FilterPipeApp Parallel Version\FilterPipeApp\obj\Debug\netcoreapp3.1\FilterPipeApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\QUT student\BACH 1\SEM2\CAB401\BIG PROJECT\FilterPipeApp Parallel Version\FilterPipeApp\obj\Debug\netcoreapp3.1\FilterPipeApp.AssemblyInfoInputs.cache
+D:\QUT student\BACH 1\SEM2\CAB401\BIG PROJECT\FilterPipeApp Parallel Version\FilterPipeApp\obj\Debug\netcoreapp3.1\FilterPipeApp.AssemblyInfo.cs
+D:\QUT student\BACH 1\SEM2\CAB401\BIG PROJECT\FilterPipeApp Parallel Version\FilterPipeApp\obj\Debug\netcoreapp3.1\FilterPipeApp.csproj.CoreCompileInputs.cache
+D:\QUT student\BACH 1\SEM2\CAB401\BIG PROJECT\FilterPipeApp Parallel Version\FilterPipeApp\obj\Debug\netcoreapp3.1\FilterPipeApp.csproj.CopyComplete
+D:\QUT student\BACH 1\SEM2\CAB401\BIG PROJECT\FilterPipeApp Parallel Version\FilterPipeApp\obj\Debug\netcoreapp3.1\FilterPipeApp.dll
+D:\QUT student\BACH 1\SEM2\CAB401\BIG PROJECT\FilterPipeApp Parallel Version\FilterPipeApp\obj\Debug\netcoreapp3.1\FilterPipeApp.pdb
+D:\QUT student\BACH 1\SEM2\CAB401\BIG PROJECT\FilterPipeApp Parallel Version\FilterPipeApp\obj\Debug\netcoreapp3.1\FilterPipeApp.genruntimeconfig.cache
+D:\QUT student\BACH 1\SEM2\CAB401\BIG PROJECT\FilterPipeApp Parallel Version\FilterPipeApp\obj\Debug\netcoreapp3.1\FilterPipeApp.csproj.AssemblyReference.cache

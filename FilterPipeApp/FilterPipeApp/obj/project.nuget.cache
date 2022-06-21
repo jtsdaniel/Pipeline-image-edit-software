@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KMfZXEb8rzisiu5VJzOpG8ioRjy0uCbaHy66WHLmOaDtPmIN+9GqRNFQBFFDAzjv1K9PH9Ul8OSZWvf8c6Lphw==",
+  "success": true,
+  "projectFilePath": "D:\\QUT student\\BACH 1\\SEM2\\CAB401\\BIG PROJECT\\FilterPipeApp Parallel Version\\FilterPipeApp\\FilterPipeApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\sixlabors.imagesharp\\1.0.0\\sixlabors.imagesharp.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
