@@ -1,5 +1,5 @@
 # Simple-Pipeline-image-edit-software
 
-##Installation guide
+## Installation guide
 
-##User guide
+## User guide
