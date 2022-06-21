@@ -1,7 +1,0 @@
-node=resize newSize=4000x2200
-node=grayscale
-node=add_border borderSize=100 borderColor=100,40,30
-node=sepia
-node=vignette
-node=normalise
-node=flip direction=[vertical]

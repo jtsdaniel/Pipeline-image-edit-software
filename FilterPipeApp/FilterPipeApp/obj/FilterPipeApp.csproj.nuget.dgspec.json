@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\QUT student\\BACH 1\\SEM2\\CAB401\\BIG PROJECT\\FilterPipeApp Parallel Version\\FilterPipeApp\\FilterPipeApp.csproj": {}
+    "D:\\QUT student\\IT projects\\pipeline\\Pipeline-image-edit-software\\FilterPipeApp\\FilterPipeApp\\FilterPipeApp.csproj": {}
   },
   "projects": {
-    "D:\\QUT student\\BACH 1\\SEM2\\CAB401\\BIG PROJECT\\FilterPipeApp Parallel Version\\FilterPipeApp\\FilterPipeApp.csproj": {
+    "D:\\QUT student\\IT projects\\pipeline\\Pipeline-image-edit-software\\FilterPipeApp\\FilterPipeApp\\FilterPipeApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\QUT student\\BACH 1\\SEM2\\CAB401\\BIG PROJECT\\FilterPipeApp Parallel Version\\FilterPipeApp\\FilterPipeApp.csproj",
+        "projectUniqueName": "D:\\QUT student\\IT projects\\pipeline\\Pipeline-image-edit-software\\FilterPipeApp\\FilterPipeApp\\FilterPipeApp.csproj",
         "projectName": "FilterPipeApp",
-        "projectPath": "D:\\QUT student\\BACH 1\\SEM2\\CAB401\\BIG PROJECT\\FilterPipeApp Parallel Version\\FilterPipeApp\\FilterPipeApp.csproj",
+        "projectPath": "D:\\QUT student\\IT projects\\pipeline\\Pipeline-image-edit-software\\FilterPipeApp\\FilterPipeApp\\FilterPipeApp.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\QUT student\\BACH 1\\SEM2\\CAB401\\BIG PROJECT\\FilterPipeApp Parallel Version\\FilterPipeApp\\obj\\",
+        "outputPath": "D:\\QUT student\\IT projects\\pipeline\\Pipeline-image-edit-software\\FilterPipeApp\\FilterPipeApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -64,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
         }
       }
     }
