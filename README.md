@@ -13,6 +13,8 @@ node=normalise
 node=flip direction=[vertical]
 ```
 
+![](https://github.com/jtsdaniel/Pipeline-image-edit-software/blob/main/FilterPipeApp/src/example%20image/demo.png?raw=true)
+
 The application also takes some approaches of using parallel computing to improve image processing time - [click here for more details](https://github.com/jtsdaniel/Pipeline-image-edit-software/blob/main/Report%20about%20app's%20optimisation.pdf)
 
 
