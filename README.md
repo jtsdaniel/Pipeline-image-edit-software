@@ -30,3 +30,4 @@ git clone https://github.com/jtsdaniel/Pipeline-image-edit-software.git
 ```bash
 dotnet run
 ```
+2. To change the image input or instruction lines for image edit - please follow this [guide](https://github.com/jtsdaniel/Pipeline-image-edit-software/blob/main/How%20to%20Run_FilterPipeApp.pdf)
