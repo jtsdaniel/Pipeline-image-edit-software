@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "II45zhlQm6OVRCtDx8NjC2xE5dlu56UHW2BteTvgKBfm57ErP4f7IIC9rX4hc0qelWiGZEyHSWlHUHaZc3gYdQ==",
+  "dgSpecHash": "Ag3r4JdYuGCuqgLT1dWQVe6loXwXYqjtOxpwrGmSpjM+rVUn9tf5LH+O4zqtwkibLcMSkaDjtlH0+Qyo5I765Q==",
   "success": true,
-  "projectFilePath": "D:\\QUT student\\IT projects\\pipeline\\Pipeline-image-edit-software\\FilterPipeApp\\src\\FilterPipeApp.csproj",
+  "projectFilePath": "D:\\QUT student\\IT projects\\Pipeline-image-edit-software\\FilterPipeApp\\src\\FilterPipeApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\sixlabors.imagesharp\\1.0.0\\sixlabors.imagesharp.1.0.0.nupkg.sha512"
   ],
