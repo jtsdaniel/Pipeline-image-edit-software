@@ -1,0 +1,17 @@
+D:\QUT Student\IT Projects\Pipeline-image-edit-software\FilterPipeApp\src\bin\Debug\net6.0\FilterPipeApp.exe
+D:\QUT Student\IT Projects\Pipeline-image-edit-software\FilterPipeApp\src\bin\Debug\net6.0\FilterPipeApp.deps.json
+D:\QUT Student\IT Projects\Pipeline-image-edit-software\FilterPipeApp\src\bin\Debug\net6.0\FilterPipeApp.runtimeconfig.json
+D:\QUT Student\IT Projects\Pipeline-image-edit-software\FilterPipeApp\src\bin\Debug\net6.0\FilterPipeApp.dll
+D:\QUT Student\IT Projects\Pipeline-image-edit-software\FilterPipeApp\src\bin\Debug\net6.0\FilterPipeApp.pdb
+D:\QUT Student\IT Projects\Pipeline-image-edit-software\FilterPipeApp\src\bin\Debug\net6.0\SixLabors.ImageSharp.dll
+D:\QUT Student\IT Projects\Pipeline-image-edit-software\FilterPipeApp\src\obj\Debug\net6.0\FilterPipeApp.csproj.AssemblyReference.cache
+D:\QUT Student\IT Projects\Pipeline-image-edit-software\FilterPipeApp\src\obj\Debug\net6.0\FilterPipeApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\QUT Student\IT Projects\Pipeline-image-edit-software\FilterPipeApp\src\obj\Debug\net6.0\FilterPipeApp.AssemblyInfoInputs.cache
+D:\QUT Student\IT Projects\Pipeline-image-edit-software\FilterPipeApp\src\obj\Debug\net6.0\FilterPipeApp.AssemblyInfo.cs
+D:\QUT Student\IT Projects\Pipeline-image-edit-software\FilterPipeApp\src\obj\Debug\net6.0\FilterPipeApp.csproj.CoreCompileInputs.cache
+D:\QUT Student\IT Projects\Pipeline-image-edit-software\FilterPipeApp\src\obj\Debug\net6.0\FilterPipeApp.csproj.CopyComplete
+D:\QUT Student\IT Projects\Pipeline-image-edit-software\FilterPipeApp\src\obj\Debug\net6.0\FilterPipeApp.dll
+D:\QUT Student\IT Projects\Pipeline-image-edit-software\FilterPipeApp\src\obj\Debug\net6.0\refint\FilterPipeApp.dll
+D:\QUT Student\IT Projects\Pipeline-image-edit-software\FilterPipeApp\src\obj\Debug\net6.0\FilterPipeApp.pdb
+D:\QUT Student\IT Projects\Pipeline-image-edit-software\FilterPipeApp\src\obj\Debug\net6.0\FilterPipeApp.genruntimeconfig.cache
+D:\QUT Student\IT Projects\Pipeline-image-edit-software\FilterPipeApp\src\obj\Debug\net6.0\ref\FilterPipeApp.dll
